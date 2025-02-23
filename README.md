@@ -1,4 +1,4 @@
-### Vezeeta – Console Application
+# Vezeeta – Console Application
 ## Overview
 Vezeeta is a C++ console-based application that simplifies healthcare access by allowing users to search for doctors, book appointments, and manage their reservations efficiently.
 
